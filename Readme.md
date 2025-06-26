@@ -3,3 +3,5 @@ This small repository is the out put of the work obtained during hands on expere
 N-body lab is part of the Numerical Lab taught at university Observatory, Munich (Department of Physics, Ludwig Maximilan University, Munich, Germany)
 
 More details about the tutorials and the references for codes can be found on this [repository by Johannes Stoiber](https://github.com/Johannes-Stoiber/Nbody-lab)
+
+![Alt text](https://github.com/jairamk10/GalaxyMerger/blob/main/Galaxy%20Merger/merger.gif)
